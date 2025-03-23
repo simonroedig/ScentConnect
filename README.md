@@ -39,8 +39,8 @@ The software consists of two main scripts:
 The devices communicate via **UDP broadcasting** on a local Wi-Fi network
 
 ## Circuit and Concept Visualization  
-- **[Circuit Diagram](circuit.png)** - Shows the hardware connections.  
-- **[Concept Illustration](concept.png)** - Visual representation of how the system works.  
+- [Circuit Diagram](circuit.png) - Shows the hardware connections.  
+- [Concept Illustration](concept.png) - Visual representation of how the system works.  
 
 ## Installation & Setup  
 1. **Flash the firmware** onto both Raspberry Pi Pico W devices.  
