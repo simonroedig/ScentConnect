@@ -36,11 +36,14 @@ The software consists of two main scripts:
 ### `station.py` (Pico B)  
 
 ### Communication Mechanism  
-The devices communicate via **UDP broadcasting** on a local Wi-Fi network
+The devices communicate via **UDP broadcasting** on a local Wi-Fi network  
 
 ## Circuit and Concept Visualization  
-- [Circuit Diagram](circuit.png) - Shows the hardware connections.  
-- [Concept Illustration](concept.png) - Visual representation of how the system works.  
+### Circuit Diagram  
+![Circuit Diagram](circuit.png)  
+
+### Concept Illustration  
+![Concept Illustration](concept.png)  
 
 ## Installation & Setup  
 1. **Flash the firmware** onto both Raspberry Pi Pico W devices.  
@@ -58,4 +61,4 @@ This project is open-source. Feel free to modify and extend it!
 
 ---
 
-Enjoy a new dimension of emotional connection with **ScentConnect**! 🌸💙
+Enjoy a new dimension of emotional connection with **ScentConnect**! 🌸💙  
